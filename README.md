@@ -4,7 +4,7 @@ This is a solution to the Skilled E-Learning Webpage challenge from Bitcamp.
 
 # Links
 
-* Live Site URL: <a href= > Click here </a>
+* Live Site URL: <a href="https://hitch-hiker1.github.io/SKILLED-E-Learning-Webpage/" > Click here </a>
 
 # built-with
 
